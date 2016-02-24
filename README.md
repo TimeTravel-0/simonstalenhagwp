@@ -12,6 +12,9 @@ This script tries to be light on the server, so there are multiple mechanisms to
 
 As the main site itself contians various images and loads approx 85MB (!) in ~300 requests right now, it should save some bandwidth ;)
 
+Run it as cron or in "deamon mode" within your windowmanager autostart script, e.g.
+(sleep 10; ~/git/simsonstalenhagwp/wp.py d) &
+
 
 This script was created as a way to get the up-to-date artwork of Simon Stalenhag as wallpaper, no more, no less.
 In no way I try to take credit for the images - it is great that they are provided in high resolution and without annoying watermarks so usage as wallpaper is possible - thanks!
