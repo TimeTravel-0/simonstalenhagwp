@@ -33,4 +33,10 @@ remote file:  http://simonstalenhag.se/bilderbig/by_crossing_2560.jpg
 download start.
 download end.
 
+now time: 2016-04-27 13:18:19.162966
+loc file: 2016-04-27 12:18:19.057470
+rem file: 2016-04-22 09:55:48
+nothing to do, already up to date :) Touching the local file.
+
+
 ```
