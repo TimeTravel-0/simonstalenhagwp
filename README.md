@@ -20,14 +20,25 @@ This script was created as a way to get the up-to-date artwork of Simon Stalenha
 In no way I try to take credit for the images - it is great that they are provided in high resolution and without annoying watermarks so usage as wallpaper is possible - thanks!
 
 
-# sample output:
+## sample output:
+
+```
 rawe@hal9000:~$ ~/git/simsonstalenhagwp/wp.py d &
+
 [1] 28777
+
 rawe@hal9000:~$ now time: 2016-04-27 12:17:09.056514
+
 loc file: 2016-04-08 09:49:36.571245
+
 rem file: 2016-04-22 09:55:48
+
 download check.
+
 remote file:  http://simonstalenhag.se/bilderbig/by_crossing_2560.jpg
+
 download start.
+
 download end.
 
+```
