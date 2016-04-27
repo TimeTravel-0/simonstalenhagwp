@@ -68,8 +68,9 @@ def get_current_wp():
 
 def deamon():
     from time import sleep
-    get_current_wp()
-    sleep(60*60)
+    while True:
+        get_current_wp()
+        sleep(60*60)
 
 
 if __name__ == "__main__":
